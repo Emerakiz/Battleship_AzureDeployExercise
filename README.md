@@ -4,4 +4,6 @@ Code - Felicia (Collab)
 
 Github - Felicia (Collab)
 
-Azure - Diego (Collab)
+Azure Setup - Diego (Collab)
+
+Taggar & Cost alert - Tillsammans
